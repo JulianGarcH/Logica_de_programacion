@@ -28,22 +28,22 @@ El objetivo del juego es que los estudiantes descubran qué interruptor enciende
 Para lograrlo, los estudiantes deben usar la lógica y determinar qué interruptor deben encender para reducir el rango de posibilidades del interruptor correcto.
 Actividad de consulta
 
-¿Qué es la lógica de programación?
-¿Cuáles son los elementos básicos de la lógica de programación?
-¿Cuál es la diferencia entre un lenguaje de programación y un lenguaje de marcado?
-¿Qué es un algoritmo y para qué se utiliza en la programación?
-¿Cuáles son las principales diferencias entre los diferentes tipos de lenguajes de programación?
-¿Cómo se utiliza la lógica booleana en la programación?
-¿Qué son las estructuras de control de flujo y cómo se utilizan en la programación?
-¿Qué es una variable y para qué se utiliza en la programación?
-¿Cómo se utilizan las funciones en la programación?
-¿Qué es la programación orientada a objetos y cómo se utiliza en la programación?
+1- ¿Qué es la lógica de programación?
+2- ¿Cuáles son los elementos básicos de la lógica de programación?
+3- ¿Cuál es la diferencia entre un lenguaje de programación y un lenguaje de marcado?
+4- ¿Qué es un algoritmo y para qué se utiliza en la programación?
+5- ¿Cuáles son las principales diferencias entre los diferentes tipos de lenguajes de programación?
+6- ¿Cómo se utiliza la lógica booleana en la programación?
+7- ¿Qué son las estructuras de control de flujo y cómo se utilizan en la programación?
+8- ¿Qué es una variable y para qué se utiliza en la programación?
+9- ¿Cómo se utilizan las funciones en la programación?
+10- ¿Qué es la programación orientada a objetos y cómo se utiliza en la programación?
 Previous
 
 
 ## Solucion
 
-1. **¿Que es la lógica de programación?**
+1- **¿Que es la lógica de programación?**
 - Es el razonamiento de una sucesión de ideas o hechos desarrollados de una manera
 coherente sin que existan contradicciones entre ellas. En otras palabras, Lógica es
 organizar y relacionar de una manera coherente las ideas a aplicar.
@@ -56,7 +56,7 @@ Entendiendo cada concepto por separado, ahora podemos decir que "Lógica de
 Programación" es la organización coherente de las instrucciones del programa para que su
 objetivo sea alcanzado o logrado.
 
-2. **¿Cuáles son los elementos básicos de la lógica de programación?**
+2- **¿Cuáles son los elementos básicos de la lógica de programación?**
 
 - Datos.
 - Variables.
@@ -67,18 +67,18 @@ Se debe destacar, que para ser un excelente Programador de sistemas informático
 debe de estar totalmente claro de todas estas definiciones, así como también, acerca de las
 maneras o formas en que se utilizan, en sus por qué se utilizan y sus para qué se utilizan.
 
-3. **¿Cuál es la diferencia entre un lenguaje de programación y un lenguaje de marcado?**
+3- **¿Cuál es la diferencia entre un lenguaje de programación y un lenguaje de marcado?**
 
 - El lenguaje de programación son una serie de instrucciones y secuencias que se le da al
 computador. Ósea se le dice a la máquina lo que debe hace, que variables o que algoritmos
 debe cumplir. En cambio, el lenguaje de marcado solo organiza el contenido acorde como
 este debe ir.
 
-4. **¿Qué es un algoritmo y para que se utiliza en la programación?**
+4- **¿Qué es un algoritmo y para que se utiliza en la programación?**
 Es una serie de instrucciones secuenciales que van una después de la otra y permiten
 ejecutar acciones o programas.
 
-5. **¿Cuáles son las principales diferencias entre los diferentes lenguajes de programación?**
+5- **¿Cuáles son las principales diferencias entre los diferentes lenguajes de programación?**
 
 - Los lenguajes de programación varían en términos de nivel de abstracción, paradigmas de
 programación y tipo de compilación o interpretación. Los lenguajes de alto nivel, como
@@ -92,17 +92,17 @@ ejecuta directamente desde el código fuente, y lenguajes compilados, donde el c
 fuente se traduce a código máquina antes de su ejecución. Esto afecta el rendimiento y la
 portabilidad de los programas.
 
-6. **¿Cómo se utiliza la lógica booleana en la programación?**
+6- **¿Cómo se utiliza la lógica booleana en la programación?**
 Es un sistema basado en la lógica matemática y solo permite 2 valores (True fail), verdadero
 o falso.
 
-7. **¿Que son las estructuras de control de flujo y cómo se utilizan en la programación?**
+7- **¿Que son las estructuras de control de flujo y cómo se utilizan en la programación?**
 
 - Son el conjunto de reglas que permiten controlar el flujo de ejecución de las instrucciones
 de un algoritmo, sirven para alterar, controlar o modificar el orden en el que se ejecutan las
 instrucciones de un software. Las hay secuenciales, selectivas e interactivas.
 
-8. **¿Que es una variable y para que se utiliza en la programación?**
+8- **¿Que es una variable y para que se utiliza en la programación?**
 
 - Una variable es un elemento de datos con nombre cuyo valor puede cambiar durante el
 curso de la ejecución de un programa. Un nombre de variable debe seguir el convenio de
@@ -126,7 +126,7 @@ cuando cumples el objetivo en programación.
 - **Variable de estado:** como su propio nombre indica, se utilizan para conocer el estado de
 un objeto en cada momento de la programación. Pueden ser variables booleanas, con valor de verdadero o falso.
 
-9. **¿Como se utilizan las funciones en la programación?**
+9- **¿Como se utilizan las funciones en la programación?**
 
 Funciones son bloques de código que se pueden reutilizar en diferentes partes de un
 programa para realizar una tarea específica. función debe preceder a la llamada a la
@@ -135,7 +135,7 @@ declaraciones de las funciones en tiempo de ejecución se incluyen en el código
 llamada a una función en
 tiempo de ejecución.
 
-10. **¿Que es la programación orientada a objetos y como se utiliza en la programación?**
+10- **¿Que es la programación orientada a objetos y como se utiliza en la programación?**
 
 La Programación Orientada a Objetos es un paradigma de programación, es decir, un
 modelo o un estilo de programación que nos da unas guías sobre cómo trabajar con él. Se
