@@ -43,7 +43,7 @@ Previous
 
 ## Solucion
 
-1. **¿Cuál es la lógica de programación?**
+1. **¿Que es la lógica de programación?**
 - Es el razonamiento de una sucesión de ideas o hechos desarrollados de una manera
 coherente sin que existan contradicciones entre ellas. En otras palabras, Lógica es
 organizar y relacionar de una manera coherente las ideas a aplicar.
@@ -55,6 +55,7 @@ Lógica de Programación
 Entendiendo cada concepto por separado, ahora podemos decir que "Lógica de
 Programación" es la organización coherente de las instrucciones del programa para que su
 objetivo sea alcanzado o logrado.
+
 2. **¿Cuáles son los elementos básicos de la lógica de programación?**
 
 - Datos.
@@ -66,7 +67,7 @@ Se debe destacar, que para ser un excelente Programador de sistemas informático
 debe de estar totalmente claro de todas estas definiciones, así como también, acerca de las
 maneras o formas en que se utilizan, en sus por qué se utilizan y sus para qué se utilizan.
 
-3. **¿Cuál es la diferencia entre un lenguaje de programación y un lenguaje de marcado?**
+1. **¿Cuál es la diferencia entre un lenguaje de programación y un lenguaje de marcado?**
 
 - El lenguaje de programación son una serie de instrucciones y secuencias que se le da al
 computador. Ósea se le dice a la máquina lo que debe hace, que variables o que algoritmos
