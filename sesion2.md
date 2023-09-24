@@ -22,7 +22,7 @@ Explorar las características y funcionalidades de cada entorno de desarrollo.
 Prueba y ejecución de ejercicios de programación básica.
 En esta actividad, pondremos en práctica los conceptos aprendidos de programación básica mediante la ejecución y prueba de diversos ejercicios. Utilizaremos el lenguaje de programación Java para implementar los programas y comprobaremos su funcionamiento ingresando diferentes valores de entrada.
 
-1. **Programa para calcular la hipotenusa de un triángulo rectángulo:**
+1- **Programa para calcular la hipotenusa de un triángulo rectángulo:**
 
 import java.util.Scanner;
 
@@ -43,7 +43,7 @@ public class HipotenusaTriangulo {
     }
 }
 
-2. **Programa para determinar si un número es par o impar:**
+2- **Programa para determinar si un número es par o impar:**
 
 
 import java.util.Scanner;
@@ -65,7 +65,7 @@ public class ParImpar {
     }
 }
 
-3. **Programa para calcular el tercer ángulo de un triángulo:**
+3- **Programa para calcular el tercer ángulo de un triángulo:**
 
 
 import java.util.Scanner;
@@ -91,7 +91,7 @@ public class TercerAnguloTriangulo {
     }
 }
 
-4. **Programa para calcular el promedio de tres números:**
+4- **Programa para calcular el promedio de tres números:**
 
 
 import java.util.Scanner;
@@ -116,7 +116,7 @@ public class PromedioTresNumeros {
     }
 }
 
-5. **Programa para calcular la longitud de una cadena de texto:**
+5- **Programa para calcular la longitud de una cadena de texto:**
 
 
 import java.util.Scanner;
@@ -135,7 +135,7 @@ public class LongitudCadena {
     }
 }
 
-6. **Programa para calcular el área de un triángulo:**
+6- **Programa para calcular el área de un triángulo:**
 
 
 import java.util.Scanner;
@@ -157,7 +157,7 @@ public class AreaTriangulo {
     }
 }
 
-7. **Programa para calcular la raíz cuadrada de un número:**
+7- **Programa para calcular la raíz cuadrada de un número:**
 
 
 import java.util.Scanner;
@@ -176,7 +176,7 @@ public class RaizCuadrada {
     }
 }
 
-8. **Programa para calcular el máximo común divisor (MCD) de dos números:**
+8- **Programa para calcular el máximo común divisor (MCD) de dos números:**
 
 
 import java.util.Scanner;
@@ -207,7 +207,7 @@ publicclass MaximoComunDivisor {
     }
 }
 
-9. **Programa para imprimir una cadena de texto en orden inverso:**
+9- **Programa para imprimir una cadena de texto en orden inverso:**
 
 
 import java.util.Scanner;
@@ -230,7 +230,7 @@ public class CadenaInversa {
     }
 }
 
-10. **Programa para calcular el área de un rectángulo:**
+10- **Programa para calcular el área de un rectángulo:**
 
 
 import java.util.Scanner;
