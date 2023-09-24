@@ -69,16 +69,18 @@ int[] numeros = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
 
 Los inicializadores de array son una forma conveniente de inicializar los elementos de un array. Se pueden utilizar para inicializar los elementos de un array con valores específicos o con valores predeterminados.
 
-Los arrays en Java se pueden utilizar para una gran variedad de tareas, como:
+**Los arrays en Java se pueden utilizar para una gran variedad de tareas, como:**
 
 Almacenar una lista de números, cadenas, objetos, etc. Almacenar los nombres de los estudiantes de una clase. Almacenar los precios de los productos de una tienda. Almacenar las puntuaciones de un juego. Almacenar las coordenadas de un mapa.
 
 Los arrays son una herramienta muy versátil que se puede utilizar en una gran variedad de escenarios.
 
-ArrayList
+**ArrayList**
+
 En Java, la clase ArrayList se utiliza para almacenar una colección de objetos de tamaño variable. Es una implementación de la interfaz List, que proporciona una serie de métodos para manipular una lista de elementos.
 
-Creación de una ArrayList
+**Creación de una ArrayList:**
+
 Para crear una ArrayList, utilizamos el constructor new ArrayList(). Podemos especificar el tipo de elementos que se almacenarán en la lista, o dejar el tipo como genérico.
 
 Sintaxis:
@@ -92,7 +94,7 @@ ArrayList<String> carsList = new ArrayList<>(cars);
 
 Este código crea una ArrayList de cadenas con los elementos de la matriz cars.
 
-Adición de elementos
+**Adición de elementos**
 
 Podemos agregar elementos a una ArrayList utilizando el método add(). Este método toma un elemento como argumento y lo agrega al final de la lista.
 
@@ -104,7 +106,7 @@ carsList.add(1, "Toyota");
 
 Este código agrega el elemento "Toyota" en la segunda posición de la lista carsList.
 
-Eliminar elementos
+**Eliminar elementos**
 
 Podemos eliminar elementos de una ArrayList utilizando el método remove(). Este método toma un elemento como argumento y lo elimina de la lista.
 
@@ -116,7 +118,7 @@ carsList.remove(2);
 
 Este código elimina el elemento en la tercera posición de la lista carsList.
 
-Obtener elementos
+**Obtener elementos**
 
 Podemos obtener elementos de una ArrayList utilizando el método get(). Este método toma un índice como argumento y devuelve el elemento en esa posición.
 
@@ -124,7 +126,7 @@ String car = carsList.get(0);
 
 Este código devuelve la cadena en la primera posición de la lista carsList.
 
-Tamaño de una ArrayList
+**Tamaño de una ArrayList**
 
 Podemos obtener el tamaño de una ArrayList utilizando el método size(). Este método devuelve el número de elementos en la lista.
 
