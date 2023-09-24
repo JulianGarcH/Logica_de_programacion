@@ -113,9 +113,7 @@ Variable auxiliar: las conocidas como variables temporales, las que necesitamos 
 ejecutar algo de forma temporal. O, en otras palabras, las variables que no necesitas
 cuando cumples el objetivo en programación.
 Variable de estado: como su propio nombre indica, se utilizan para conocer el estado de
-un objeto en cada momento de la programación. Pueden ser variables booleanas, con
-
-valor de verdadero o falso.
+un objeto en cada momento de la programación. Pueden ser variables booleanas, con valor de verdadero o falso.
 
 9. Como se utilizan las funciones en la programación?
 Funciones son bloques de código que se pueden reutilizar en diferentes partes de un
@@ -138,11 +136,14 @@ fácil de mantener. Sigue el principio de desarrollo de software utilizado por m
 programadores DRY (Don’t Repeat Yourself), para evitar duplicar el código y crear de esta
 manera programas eficientes. Además, evita el acceso no deseado a los datos o la
 exposición de código propietario mediante la encapsulación y la abstracción
+
 ● La encapsulación: contiene toda la información importante de un objeto dentro del
 mismo y solo expone la información seleccionada al mundo exterior.
+
 ● La abstracción: cuando el usuario interactúa solo con los atributos y métodos
 seleccionados de un objeto, utilizando herramientas simplificadas de alto nivel para
 acceder a un objeto complejo.
+
 ● La herencia: define relaciones jerárquicas entre clases, de forma que atributos y
 métodos comunes puedan ser reutilizados. Las clases principales extienden
 atributos y
@@ -150,6 +151,7 @@ comportamientos en las clases secundarias. A través de la definición en una cl
 los atributos y comportamientos básicos, se pueden crear clases secundarias, ampliando
 así la funcionalidad de la clase principal y agregando atributos y comportamientos
 adicionales.
+
 ● El polimorfismo: consiste en diseñar objetos para compartir comportamientos, lo
 que nos permite procesar objetos de diferentes maneras. Es la capacidad de
 presentar la misma interfaz para diferentes formas subyacentes o tipos de datos.
