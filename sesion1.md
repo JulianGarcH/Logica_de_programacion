@@ -67,7 +67,7 @@ Se debe destacar, que para ser un excelente Programador de sistemas informático
 debe de estar totalmente claro de todas estas definiciones, así como también, acerca de las
 maneras o formas en que se utilizan, en sus por qué se utilizan y sus para qué se utilizan.
 
-1. **¿Cuál es la diferencia entre un lenguaje de programación y un lenguaje de marcado?**
+3. **¿Cuál es la diferencia entre un lenguaje de programación y un lenguaje de marcado?**
 
 - El lenguaje de programación son una serie de instrucciones y secuencias que se le da al
 computador. Ósea se le dice a la máquina lo que debe hace, que variables o que algoritmos
@@ -112,6 +112,7 @@ simple. En programación, la utilizamos para guardar datos y estados, asignar ci
 de variables a otras, representar valores de expresiones matemáticas y mostrar valores por
 pantallas.
 Las variables se expresan así:
+
 - Como un número
 - Como un texto
 - Como un dato abstracto
