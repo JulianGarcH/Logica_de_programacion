@@ -6,7 +6,7 @@
 
 <!-- Su documentación aquí -->
 
-# Lógica de programación.
+# **Lógica de programación.**
 
 Conceptos básicos de programación
 Los conceptos básicos de programación son los siguientes:
@@ -98,7 +98,7 @@ Actividad de consulta
 Previous
 
 
-# Solucion
+# **Solucion**
 
 1- **¿Que es la lógica de programación?**
 - Es el razonamiento de una sucesión de ideas o hechos desarrollados de una manera
