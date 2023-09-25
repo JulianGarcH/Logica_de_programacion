@@ -6,7 +6,7 @@
 
 <!-- Su documentación aquí -->
 
-# **Lógica de programación.**
+# **Lógica de programación**
 
 Conceptos básicos de programación
 Los conceptos básicos de programación son los siguientes:
