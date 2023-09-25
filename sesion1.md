@@ -6,7 +6,7 @@
 
 <!-- Su documentación aquí -->
 
-## Lógica de programación.
+# Lógica de programación.
 
 Conceptos básicos de programación
 Los conceptos básicos de programación son los siguientes:
@@ -64,7 +64,7 @@ La sintaxis básica de Java es el conjunto de reglas y convenciones que se utili
 Estos son solo algunos de los conceptos básicos de la sintaxis de Java. Con el tiempo, los programadores pueden aprender más conceptos avanzados, como las estructuras de control y flujo, los arreglos, las colecciones, etc.
 
 
-## **Actividad 1: Diagnóstico de aprendizajes previos (Trabajo grupal)**
+# **Actividad 1: Diagnóstico de aprendizajes previos (Trabajo grupal)**
 Objetivo: Desarrollar habilidades de pensamiento lógico y resolución de problemas.
 
 Ejercicio 1: El juego de la adivinanza
@@ -98,7 +98,7 @@ Actividad de consulta
 Previous
 
 
-## Solucion
+# Solucion
 
 1- **¿Que es la lógica de programación?**
 - Es el razonamiento de una sucesión de ideas o hechos desarrollados de una manera
