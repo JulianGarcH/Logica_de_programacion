@@ -37,29 +37,7 @@ NetBeans
 Estructura de un programa en Java
 Ejemplo de la estructura de un programa en Java con comentarios documentados para cada sección:
 
-package com.example.miproyecto;  // Declaración del paquete
-
-import java.util.Scanner;  // Importación de paquetes
-
-/**
- * Este es un ejemplo de programa en Java.
- * Imprime un mensaje de saludo con el nombre y la edad de una persona.
- */
-public class MiPrograma {  // Declaración de la clase
-
-    /**
-     * El método principal, punto de entrada para la ejecución del programa.
-     * @param args Los argumentos de línea de comandos (no se utilizan en este ejemplo).
-     */
-    public static void main(String[] args) {
-        // Declaración de variables
-        int edad = 25;
-        String nombre = "Juan";
-
-        // Código del programa
-        System.out.println("Hola, " + nombre + ". Tienes " + edad + " años.");
-    }
-}
+![imagen](image.png)
 
 
 En este ejemplo, se sigue la estructura básica de un programa en Java con comentarios documentados que explican cada sección:
