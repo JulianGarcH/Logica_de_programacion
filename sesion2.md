@@ -147,6 +147,7 @@ Es importante tener en cuenta que los nombres de las variables deben seguir las 
 
 [w3schools](https://www.w3schools.com/java/java_data_types.asp)
 
+
 ![imagentipodedato](image-1.png)
 
 types
