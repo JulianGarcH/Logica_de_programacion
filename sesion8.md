@@ -169,4 +169,12 @@ public int sumarArreglo(int[] arreglo) {
 En este ejemplo, el método sumarArreglo recibe un parámetro de tipo int[] que representa un arreglo de números enteros. Si el arreglo es nulo o vacío, se devuelve 0. De lo contrario, se utiliza un ciclo for para recorrer cada elemento del arreglo y sumarlos. La variable suma se inicializa en 0 y en cada iteración del ciclo for, se le suma el valor del elemento del arreglo. Finalmente, se devuelve la variable suma que contiene la suma total de los elementos del arreglo.
 
 
+# **Actividad: Ejecicios de métodos en Java**
 
+**Implementar los siguientes métodos:**
+
+1. Escribe un método que reciba dos números como parámetros y devuelva el mayor de los dos.
+1. Escribe un método que reciba una cadena de texto como parámetro y devuelva el número de vocales que contiene.
+1. Escribe un método que reciba una cadena de texto como parámetro y devuelva una nueva cadena con todas las letras mayúsculas en minúsculas y viceversa.
+1. Escribe un método que reciba una cadena de texto como parámetro y devuelva el número de palabras que contiene.
+1. Escribe un método que reciba una cadena de texto como parámetro y devuelva una nueva cadena con todas las palabras en orden alfabético.
