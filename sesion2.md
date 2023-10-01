@@ -145,7 +145,9 @@ char inicial = 'J';
 
 Es importante tener en cuenta que los nombres de las variables deben seguir las reglas de identificación de Java y ser descriptivos del valor que se va a almacenar en ellas. Además, es importante seleccionar el tipo de dato adecuado para cada variable para evitar errores en el programa.
 
-https://www.w3schools.com/java/java_data_types.asp
+[w3schools](https://www.w3schools.com/java/java_data_types.asp)
+
+![imagentipodedato](image-1.png)
 
 types
 
