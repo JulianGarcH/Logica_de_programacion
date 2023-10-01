@@ -22,7 +22,7 @@ IntelliJ IDEA Community Edition es un entorno de desarrollo integrado (IDE) grat
 
 La versión Community Edition de IntelliJ IDEA es gratuita y de código abierto, lo que significa que cualquier desarrollador puede descargar y utilizar la herramienta de forma gratuita. Además, cuenta con una gran comunidad de desarrolladores que contribuyen con complementos y soluciones para problemas comunes. La versión Community Edition es adecuada para proyectos pequeños y medianos, mientras que la versión Ultimate, de pago, ofrece características avanzadas para proyectos más grandes y complejos.
 
-[IntelliJ IDEA] (https://www.jetbrains.com/es-es/idea/download/?section=windows#section=windows)
+[IntelliJ IDEA](https://www.jetbrains.com/es-es/idea/download/?section=windows#section=windows)
 
 **NetBeans**
 
@@ -32,7 +32,7 @@ NetBeans es una herramienta multiplataforma, lo que significa que se puede ejecu
 
 Además, NetBeans cuenta con una comunidad activa de desarrolladores que contribuyen con complementos y soluciones a problemas comunes, lo que lo convierte en una herramienta muy versátil y adaptable a diferentes proyectos y necesidades de programación.
 
-NetBeans
+[NetBeans](https://netbeans.apache.org/download/nb18/)
 
 Estructura de un programa en Java
 Ejemplo de la estructura de un programa en Java con comentarios documentados para cada sección:
