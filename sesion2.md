@@ -22,7 +22,7 @@ IntelliJ IDEA Community Edition es un entorno de desarrollo integrado (IDE) grat
 
 La versión Community Edition de IntelliJ IDEA es gratuita y de código abierto, lo que significa que cualquier desarrollador puede descargar y utilizar la herramienta de forma gratuita. Además, cuenta con una gran comunidad de desarrolladores que contribuyen con complementos y soluciones para problemas comunes. La versión Community Edition es adecuada para proyectos pequeños y medianos, mientras que la versión Ultimate, de pago, ofrece características avanzadas para proyectos más grandes y complejos.
 
-IntelliJ IDEA Community Edition
+[IntelliJ IDEA] (https://www.jetbrains.com/es-es/idea/download/?section=windows#section=windows)
 
 **NetBeans**
 
