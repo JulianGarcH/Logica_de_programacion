@@ -399,4 +399,21 @@ public class Estacion {
 }
 
 
+# **Actividad 4: Ejercicios de control de flujo con expresiones compuestas**
+
+![imagactses4](image-20.png)
+
+Con la información anterior, implementa los siguientes ejercicios:
+
+1. Determinar si el estudiante es mayor de edad y tiene un estado activo.
+1. Determinar si el estudiante tiene una beca o una carrera relacionada con el desarrollo de software.
+1. Determinar si el estudiante está en el último semestre de su carrera y tiene un estado activo.
+1. Determinar si el estudiante tiene una carrera relacionada con el desarrollo de software y un promedio superior a 4.0.
+1. Mostrar toda la información del estudiante si está matriculado en el Cesde.
+1. Asignar una beca del 50% si el estudiante está matriculado en el Cesde, tiene un promedio superior a 4.0 y está activo.
+1. Determinar la cantidad de beca que recibe el estudiante según su promedio:
+- 0.0 - 3.4: El estudiante no recibe beca.
+- 3.5 - 3.9: El estudiante recibe una beca parcial del 25%.
+- 4.0 - 4.4: El estudiante recibe una beca parcial del 50%.
+- 4.5 - 5.0: El estudiante recibe una beca completa.
 
