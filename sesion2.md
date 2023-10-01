@@ -324,7 +324,7 @@ Se puede utilizar cualquier tipo de dato para una constante: numéricos, cadena 
 Las constantes hacen el código más legible y mantenible al evitar valores literales.
 
 
-## Actividad 2: Instalación de Entornos de Desarrollo para Java y ejercicios de programación básica.
+# **Actividad 2: Instalación de Entornos de Desarrollo para Java y ejercicios de programación básica.**
 
 **Instalación de Entornos de Desarrollo para Java**
 **Objetivo:** Familiarizarse con la instalación de los entornos de desarrollo necesarios para programar en Java.
