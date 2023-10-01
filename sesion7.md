@@ -178,6 +178,27 @@ El uso de más memoria que una matriz de tamaño fijo.
 La posibilidad de ineficiencias en operaciones como la adición y la eliminación de elementos.
 
 
+# **Actividad: Ejecicios Array - ArrayList**
+
+1. En parejas, probar, analizar y explicar el funcionamiento de los siguientes ejemplos de Array y ArrayList.
+
+- Ejemplo Array:
+
+![imgejearray](image-21.png)
+
+
+- Ejemplo Array list:
+
+![imagejerarraylis](image-22.png)
+
+2. Crear un ejemplo de Array y otro de ArrayList para visualizar sus diferencias.
+
+- ![imagarraysolu](image-23.png)
+
+
+- ![imagarraylistsolu](image-24.png)
+
+
 
 
 
