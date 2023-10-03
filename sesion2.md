@@ -42,80 +42,89 @@ Ejemplo de la estructura de un programa en Java con comentarios documentados par
 
 En este ejemplo, se sigue la estructura básica de un programa en Java con comentarios documentados que explican cada sección:
 
-package com.example.miproyecto;: Se declara el paquete al que pertenece el programa. En este caso, el paquete es "com.example.miproyecto".
+- package com.example.miproyecto;: Se declara el paquete al que pertenece el programa. En este caso, el paquete es "com.example.miproyecto".
 
-import java.util.Scanner;: Se importa el paquete java.util y la clase Scanner para poder utilizarla en el programa. El Scanner se utiliza para leer la entrada del usuario.
+- import java.util.Scanner;: Se importa el paquete java.util y la clase Scanner para poder utilizarla en el programa. El Scanner se utiliza para leer la entrada del usuario.
 
-public class MiPrograma {: Se declara la clase principal del programa llamada MiPrograma. La palabra clave public indica que la clase es accesible desde cualquier otro lugar.
+- public class MiPrograma {: Se declara la clase principal del programa llamada MiPrograma. La palabra clave public indica que la clase es accesible desde cualquier otro lugar.
 
-public static void main(String[] args) {: Se define el método principal main, que es el punto de entrada del programa. Recibe un array de cadenas args como argumento, que puede ser utilizado para pasar argumentos desde la línea de comandos.
+- public static void main(String[] args) {: Se define el método principal main, que es el punto de entrada del programa. Recibe un array de cadenas args como argumento, que puede ser utilizado para pasar argumentos desde la línea de comandos.
 
-int edad = 25;: Se declara una variable edad de tipo entero y se le asigna el valor 25.
+- int edad = 25;: Se declara una variable edad de tipo entero y se le asigna el valor 25.
 
-String nombre = "Juan";: Se declara una variable nombre de tipo cadena y se le asigna el valor "Juan".
+- String nombre = "Juan";: Se declara una variable nombre de tipo cadena y se le asigna el valor "Juan".
 
-System.out.println("Hola, " + nombre + ". Tienes " + edad + " años.");: Se utiliza System.out.println() para imprimir un mensaje de saludo en la consola. La cadena se forma concatenando las variables nombre y edad utilizando el operador de suma (+).
+- System.out.println("Hola, " + nombre + ". Tienes " + edad + " años.");: Se utiliza System.out.println() para imprimir un mensaje de saludo en la consola. La cadena se forma concatenando las variables nombre y edad utilizando el operador de suma (+).
 
-Declaración variables.
+# **Declaración variables.**
+
 En Java, la declaración y asignación de variables es una de las tareas más básicas y esenciales para escribir cualquier programa. En esencia, una variable es un espacio en la memoria del ordenador reservado para almacenar un valor específico. La declaración de una variable es simplemente la creación de un espacio en la memoria para almacenar el valor que se asignará a la variable más adelante.
 
 La sintaxis para declarar una variable en Java es la siguiente:
 
-tipoDato nombreVariable;
+![imagen2ses2](image-25.png)
 
 Donde tipoDato es el tipo de dato que se almacenará en la variable y nombreVariable es el nombre que se le dará a la variable.
 
 Por ejemplo, si quisiéramos declarar una variable de tipo entero llamada "edad", la sintaxis sería la siguiente:
 
-int edad;
+![imaint](image-26.png)
 
 Una vez que se ha declarado una variable, se puede asignar un valor a la variable utilizando el operador de asignación "=".
 
 Por ejemplo, para asignar un valor de 25 a la variable "edad", se utiliza la siguiente sintaxis:
 
-edad = 25;
+![imaedad](image-27.png)
 
 También es posible declarar y asignar valores a una variable en la misma línea de código. Por ejemplo, para declarar y asignar un valor de 3.14 a una variable de tipo "double" llamada "pi", se utilizaría la siguiente sintaxis:
 
-double pi = 3.14;
+![imado](image-28.png)
 
 Es importante tener en cuenta que los nombres de las variables deben seguir las reglas de identificación de Java y ser descriptivos del valor que se va a almacenar en ellas. Además, una vez que se ha declarado una variable, se puede utilizar en cualquier lugar del programa siempre y cuando se haya asignado un valor a ella. Si se intenta utilizar una variable que no ha sido declarada previamente, se generará un error de compilación.
 
-Identificadores
+## **Identificadores**
+
 En Java, hay convenciones y buenas prácticas para crear identificadores de variables, constantes, métodos y clases con el fin de hacer que el código sea más fácil de leer y entender. Algunas de estas convenciones y buenas prácticas son las siguientes:
 
-Los nombres de variables deben comenzar con una letra minúscula. Si el nombre está compuesto por varias palabras, la primera letra de cada palabra debe ser mayúscula, excepto la primera palabra. Por ejemplo, "nombreDeVariable".
+- Los nombres de variables deben comenzar con una letra minúscula. Si el nombre está compuesto por varias palabras, la primera letra de cada palabra debe ser mayúscula, excepto la primera palabra. Por ejemplo, "nombreDeVariable".
 
-Los nombres de las constantes deben estar completamente en mayúsculas. Si el nombre está compuesto por varias palabras, se deben separar con guiones bajos. Por ejemplo, "CONSTANTE_DE_EJEMPLO".
+- Los nombres de las constantes deben estar completamente en mayúsculas. Si el nombre está compuesto por varias palabras, se deben separar con guiones bajos. Por ejemplo, "CONSTANTE_DE_EJEMPLO".
 
-Los nombres de las clases deben comenzar con una letra mayúscula, y si el nombre está compuesto por varias palabras, la primera letra de cada palabra debe ser mayúscula. Por ejemplo, "ClaseDeEjemplo".
+- Los nombres de las clases deben comenzar con una letra mayúscula, y si el nombre está compuesto por varias palabras, la primera letra de cada palabra debe ser mayúscula. Por ejemplo, "ClaseDeEjemplo".
 
-Los nombres de los métodos deben comenzar con una letra minúscula, y si el nombre está compuesto por varias palabras, la primera letra de cada palabra debe ser mayúscula. Por ejemplo, "metodoDeEjemplo()".
+- Los nombres de los métodos deben comenzar con una letra minúscula, y si el nombre está compuesto por varias palabras, la primera letra de cada palabra debe ser mayúscula. Por ejemplo, "metodoDeEjemplo()".
 
-Los nombres de las variables deben ser descriptivos y deben indicar el propósito de la variable. Por ejemplo, "nombre", "edad", "numeroDeEjemplo".
+- Los nombres de las variables deben ser descriptivos y deben indicar el propósito de la variable. Por ejemplo, "nombre", "edad", "numeroDeEjemplo".
 
-Los nombres de los métodos deben indicar claramente lo que hace el método. Por ejemplo, "calcularPromedio()", "imprimirMensaje()", "obtenerResultado()".
+- Los nombres de los métodos deben indicar claramente lo que hace el método. Por ejemplo, "calcularPromedio()", "imprimirMensaje()", "obtenerResultado()".
 
-Los nombres de las clases deben ser sustantivos y deben reflejar el propósito de la clase. Por ejemplo, "Persona", "Libro", "Automovil".
+- Los nombres de las clases deben ser sustantivos y deben reflejar el propósito de la clase. Por ejemplo, "Persona", "Libro", "Automovil".
 
-Es recomendable evitar el uso de abreviaturas en los nombres de variables, constantes, métodos y clases, a menos que sean ampliamente conocidas y entendidas por otros programadores.
+- Es recomendable evitar el uso de abreviaturas en los nombres de variables, constantes, métodos y clases, a menos que sean ampliamente conocidas y entendidas por otros programadores.
 
-Es recomendable seguir un estilo consistente en todo el código, para que sea más fácil de leer y entender.
+- Es recomendable seguir un estilo consistente en todo el código, para que sea más fácil de leer y entender.
 
-Estilos de convención de codificación.
-CamelCase (lowerCamelCase o mixedCase)
-En CamelCase, la primera letra de la primera palabra se escribe en minúscula y las primeras letras de las palabras subsiguientes se escriben en mayúscula.
-No se utilizan espacios ni guiones.
-Ejemplo: miVariable, calcularSuma, nombreCompleto.
+## **Estilos de convención de codificación.**
 
-PascalCase (UpperCamelCase o StudlyCase)
-En PascalCase, la primera letra de cada palabra se escribe en mayúscula, incluida la primera palabra.
-No se utilizan espacios ni guiones.
-Ejemplo: MiClase, CalcularPromedio, MetodoPrincipal.
+**1 . CamelCase (lowerCamelCase o mixedCase)**
 
-Snake_case
-En Snake_case, las palabras se escriben en minúscula y se separan mediante guiones bajos.
-Ejemplo: mi_variable, calcular_suma, nombre_completo.
+- En CamelCase, la primera letra de la primera palabra se escribe en minúscula y las primeras letras de las palabras subsiguientes se escriben en mayúscula.
+- No se utilizan espacios ni guiones.
+
+![imaca](image-30.png)
+
+## **PascalCase (UpperCamelCase o StudlyCase)**
+
+- En PascalCase, la primera letra de cada palabra se escribe en mayúscula, incluida la primera palabra.
+- No se utilizan espacios ni guiones.
+
+![imapas](image-29.png)
+
+## **Snake_case**
+
+- En Snake_case, las palabras se escriben en minúscula y se separan mediante guiones bajos.
+
+![imasna](image-31.png)
 
 Este estilo es comúnmente utilizado en lenguajes como Python.
 

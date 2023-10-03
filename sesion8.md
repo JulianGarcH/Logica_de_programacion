@@ -178,3 +178,5 @@ En este ejemplo, el método sumarArreglo recibe un parámetro de tipo int[] que 
 1. Escribe un método que reciba una cadena de texto como parámetro y devuelva una nueva cadena con todas las letras mayúsculas en minúsculas y viceversa.
 1. Escribe un método que reciba una cadena de texto como parámetro y devuelva el número de palabras que contiene.
 1. Escribe un método que reciba una cadena de texto como parámetro y devuelva una nueva cadena con todas las palabras en orden alfabético.
+
+
