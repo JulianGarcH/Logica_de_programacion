@@ -113,14 +113,14 @@ En Java, hay convenciones y buenas prácticas para crear identificadores de vari
 
 ![imaca](image-30.png)
 
-## **PascalCase (UpperCamelCase o StudlyCase)**
+ **1 . PascalCase (UpperCamelCase o StudlyCase)**
 
 - En PascalCase, la primera letra de cada palabra se escribe en mayúscula, incluida la primera palabra.
 - No se utilizan espacios ni guiones.
 
 ![imapas](image-29.png)
 
-## **Snake_case**
+**1 . Snake_case**
 
 - En Snake_case, las palabras se escriben en minúscula y se separan mediante guiones bajos.
 
@@ -128,29 +128,37 @@ En Java, hay convenciones y buenas prácticas para crear identificadores de vari
 
 Este estilo es comúnmente utilizado en lenguajes como Python.
 
-Kebab-case
-En Kebab-case, las palabras se escriben en minúscula y se separan mediante guiones medios.
-Ejemplo: mi-variable, calcular-suma, nombre-completo.
+**1 . Kebab-case**
+
+- En Kebab-case, las palabras se escriben en minúscula y se separan mediante guiones medios.
+
+![imagke](image-32.png)
 
 Este estilo es menos común en la convención de codificación, pero se utiliza en algunos lenguajes y sistemas.
 
-Tipos de datos primitivos.
+## **Tipos de datos primitivos.**
+
 En Java, existen cinco tipos de datos primitivos que se utilizan comúnmente en la programación. Estos tipos de datos son int, float, double, boolean y char, y se utilizan para almacenar diferentes tipos de información en una variable.
 
-int: Este tipo de dato se utiliza para almacenar números enteros (sin decimales) con un rango de -2147483648 a 2147483647. Por ejemplo, se puede declarar una variable de tipo int llamada "edad" para almacenar la edad de una persona:
-int edad = 25;
+- int: Este tipo de dato se utiliza para almacenar números enteros (sin decimales) con un rango de -2147483648 a 2147483647. Por ejemplo, se puede declarar una variable de tipo int llamada "edad" para almacenar la edad de una persona:
 
-float: Este tipo de dato se utiliza para almacenar números decimales con un rango menor que el tipo de datos double. El tamaño de este tipo de dato es de 4 bytes. Por ejemplo, se puede declarar una variable de tipo float llamada "altura" para almacenar la altura de una persona:
-float altura = 1.75f;
+![imaintpr](image-33.png)
 
-double: Este tipo de dato se utiliza para almacenar números decimales con una precisión mayor que el tipo de datos float. El tamaño de este tipo de dato es de 8 bytes. Por ejemplo, se puede declarar una variable de tipo double llamada "peso" para almacenar el peso de una persona:
-double peso = 80.5;
+- **float:** Este tipo de dato se utiliza para almacenar números decimales con un rango menor que el tipo de datos double. El tamaño de este tipo de dato es de 4 bytes. Por ejemplo, se puede declarar una variable de tipo float llamada "altura" para almacenar la altura de una persona:
 
-boolean: Este tipo de dato se utiliza para almacenar valores verdadero o falso (true o false). Por ejemplo, se puede declarar una variable de tipo boolean llamada "esMayorDeEdad" para almacenar si una persona es mayor de edad o no:
-boolean esMayorDeEdad = true;
+![imaflo](image-34.png)
 
-char: Este tipo de dato se utiliza para almacenar caracteres individuales, como letras, números y símbolos. El tamaño de este tipo de dato es de 2 bytes. Por ejemplo, se puede declarar una variable de tipo char llamada "inicial" para almacenar la inicial del nombre de una persona:
-char inicial = 'J';
+- **double:** Este tipo de dato se utiliza para almacenar números decimales con una precisión mayor que el tipo de datos float. El tamaño de este tipo de dato es de 8 bytes. Por ejemplo, se puede declarar una variable de tipo double llamada "peso" para almacenar el peso de una persona:
+
+![imadoupr](image-35.png)
+
+- **boolean:** Este tipo de dato se utiliza para almacenar valores verdadero o falso (true o false). Por ejemplo, se puede declarar una variable de tipo boolean llamada "esMayorDeEdad" para almacenar si una persona es mayor de edad o no:
+
+![imabole](image-36.png)
+
+- **char:** Este tipo de dato se utiliza para almacenar caracteres individuales, como letras, números y símbolos. El tamaño de este tipo de dato es de 2 bytes. Por ejemplo, se puede declarar una variable de tipo char llamada "inicial" para almacenar la inicial del nombre de una persona:
+
+![imacha](image-37.png)
 
 Es importante tener en cuenta que los nombres de las variables deben seguir las reglas de identificación de Java y ser descriptivos del valor que se va a almacenar en ellas. Además, es importante seleccionar el tipo de dato adecuado para cada variable para evitar errores en el programa.
 
