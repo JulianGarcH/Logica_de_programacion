@@ -267,3 +267,26 @@ public class MetodosenJava {
         System.out.println("Texto Cambiado: " + textoCambiado);
     }
 } 
+
+
+
+1. public class ContadorPalabras {
+
+    public static int contarPalabras(String texto) {
+        if (texto == null || texto.isEmpty()) {
+            return 0;
+        }
+
+        // Divide la cadena en palabras usando el espacio en blanco como delimitador
+        String[] palabras = texto.split("\\s+");
+
+        // Retorna el número de palabras
+        return palabras.length;
+    }
+
+    public static void main(String[] args) {
+        String texto = "Somos el tiempo que nos queda, mucho";
+        int numeroDePalabras = contarPalabras(texto);
+        System.out.println("Número de palabras en el texto: " + numeroDePalabras);
+    }
+}
