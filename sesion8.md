@@ -182,11 +182,32 @@ En este ejemplo, el método sumarArreglo recibe un parámetro de tipo int[] que 
 
 # **Solucion**
 
+1. public class MayorDeDosNumeros {
+    
+  
+    public static int encontrarMayor(int num1, int num2) {
+        if (num1 > num2) {
+            return num1;
+        } else {
+            return num2;
+        }
+    }
+
+    public static void main(String[] args) {
+        // Ejemplo de uso del método
+        int numero1 = 15;
+        int numero2 = 9;
+        
+        int resultado = encontrarMayor(numero1, numero2);
+        
+        System.out.println("El número mayor entre " + numero1 + " y " + numero2 + " es " + resultado);
+    }
+}
+
+
+
+
 1. 
-
-
-
-1. //import java.util.Arrays;
 
 
 /**
