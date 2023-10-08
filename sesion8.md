@@ -182,7 +182,7 @@ En este ejemplo, el método sumarArreglo recibe un parámetro de tipo int[] que 
 
 # **Solucion**
 
-1. (
+1. 
 
 public class MayorDeDosNumeros {
     
@@ -205,11 +205,11 @@ public class MayorDeDosNumeros {
         System.out.println("El número mayor entre " + numero1 + " y " + numero2 + " es " + resultado);
     }
 }
-)
 
 
 
-1. (
+
+1. 
 
 
 /**
@@ -240,10 +240,10 @@ public class MetodosenJava {
         return contador;
     }
 }
-)
 
 
-1. (
+
+1. 
 
 public class CambioMayusculasMinusculas {
 
@@ -271,10 +271,10 @@ public class CambioMayusculasMinusculas {
         System.out.println("Texto Cambiado: " + textoCambiado);
     }
 } 
-)
 
 
-1. (
+
+1. 
 
 
 public class ContadorPalabras {
@@ -297,4 +297,34 @@ public class ContadorPalabras {
         System.out.println("Número de palabras en el texto: " + numeroDePalabras);
     }
 }
-)
+
+
+1. 
+
+import java.util.Arrays;
+/**
+ *
+ * @author Julian
+ */
+public class Palabrasenordenalfabetico {
+
+   public static void main(String[] args) {
+       
+       String textoOriginal = "no me encuentren ni con radar";
+        String textoOrdenado = ordenarPalabrasAlfabeticamente(textoOriginal);
+        System.out.println(textoOrdenado);
+    }
+
+    public static String ordenarPalabrasAlfabeticamente(String texto) {
+        // Dividir la cadena en palabras
+        String[] palabras = texto.split("");
+
+        // Ordenar las palabras alfabéticamente
+        Arrays.sort(palabras);
+
+        // Crear una nueva cadena con las palabras ordenadas
+        String textoOrdenado = String.join("", palabras);
+
+        return textoOrdenado;
+}
+}
