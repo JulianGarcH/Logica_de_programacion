@@ -239,3 +239,31 @@ public class MetodosenJava {
     }
 }
 
+
+
+1.ublic class CambioMayusculasMinusculas {
+
+    public static String cambiarMayusculasMinusculas(String texto) {
+        StringBuilder resultado = new StringBuilder();
+
+        for (int i = 0; i < texto.length(); i++) {
+            char caracter = texto.charAt(i);
+            if (Character.isUpperCase(caracter)) {
+                resultado.append(Character.toLowerCase(caracter));
+            } else if (Character.isLowerCase(caracter)) {
+                resultado.append(Character.toUpperCase(caracter));
+            } else {
+                resultado.append(caracter);
+            }
+        }
+
+        return resultado.toString();
+    }
+
+    public static void main(String[] args) {
+        String textoOriginal = "Somos El Tiempo Que Nos Queda";
+        String textoCambiado = cambiarMayusculasMinusculas(textoOriginal);
+        System.out.println("Texto Original: " + textoOriginal);
+        System.out.println("Texto Cambiado: " + textoCambiado);
+    }
+} 
