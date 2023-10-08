@@ -180,3 +180,41 @@ En este ejemplo, el método sumarArreglo recibe un parámetro de tipo int[] que 
 1. Escribe un método que reciba una cadena de texto como parámetro y devuelva una nueva cadena con todas las palabras en orden alfabético.
 
 
+# **Solucion**
+
+1. 
+
+
+
+1. //import java.util.Arrays;
+
+
+/**
+ *
+ * @author Julian
+ */
+public class MetodosenJava {
+
+    public static void main(String[] args) {
+        String texto = "Somos el tiempo que nos queda";
+        int numeroVocales = contarVocales(texto);
+        System.out.println("El número de vocales en la cadena es: " + numeroVocales);
+    }
+
+    public static int contarVocales(String texto) {
+        int contador = 0;
+        // Convertimos la cadena a minúsculas para simplificar la comparación
+        texto = texto.toLowerCase();
+
+        for (int i = 0; i < texto.length(); i++) {
+            char caracter = texto.charAt(i);
+            // Verificamos si el caracter es una vocal
+            if (caracter == 'a' || caracter == 'e' || caracter == 'i' || caracter == 'o' || caracter == 'u') {
+                contador++;
+            }
+        }
+
+        return contador;
+    }
+}
+
