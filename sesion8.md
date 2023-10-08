@@ -182,7 +182,9 @@ En este ejemplo, el método sumarArreglo recibe un parámetro de tipo int[] que 
 
 # **Solucion**
 
-1. public class MayorDeDosNumeros {
+1. (
+
+public class MayorDeDosNumeros {
     
   
     public static int encontrarMayor(int num1, int num2) {
@@ -203,11 +205,11 @@ En este ejemplo, el método sumarArreglo recibe un parámetro de tipo int[] que 
         System.out.println("El número mayor entre " + numero1 + " y " + numero2 + " es " + resultado);
     }
 }
+)
 
 
 
-
-1. 
+1. (
 
 
 /**
@@ -238,10 +240,12 @@ public class MetodosenJava {
         return contador;
     }
 }
+)
 
 
+1. (
 
-1.ublic class CambioMayusculasMinusculas {
+public class CambioMayusculasMinusculas {
 
     public static String cambiarMayusculasMinusculas(String texto) {
         StringBuilder resultado = new StringBuilder();
@@ -267,10 +271,13 @@ public class MetodosenJava {
         System.out.println("Texto Cambiado: " + textoCambiado);
     }
 } 
+)
 
 
+1. (
 
-1. public class ContadorPalabras {
+
+public class ContadorPalabras {
 
     public static int contarPalabras(String texto) {
         if (texto == null || texto.isEmpty()) {
@@ -290,3 +297,4 @@ public class MetodosenJava {
         System.out.println("Número de palabras en el texto: " + numeroDePalabras);
     }
 }
+)
