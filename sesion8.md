@@ -211,11 +211,8 @@ public class MayorDeDosNumeros {
 
 1. 
 
+@author Julian
 
-/**
- *
- * @author Julian
- */
 public class MetodosenJava {
 
     public static void main(String[] args) {
@@ -302,10 +299,9 @@ public class ContadorPalabras {
 1. 
 
 import java.util.Arrays;
-/**
- *
- * @author Julian
- */
+
+  @author Julian
+ 
 public class Palabrasenordenalfabetico {
 
    public static void main(String[] args) {
