@@ -216,4 +216,4 @@ En resumen, el ángulo de lanzamiento óptimo para maximizar la distancia recorr
 
 A continuación te presento un ejemplo en Java de cómo calcular el movimiento parabólico de un proyectil:
 
-![imasol10.1](image-56.png)
+![imagses10](image-57.png)
