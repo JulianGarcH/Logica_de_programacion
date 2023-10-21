@@ -195,6 +195,8 @@ Selecciona dos ejercicios de la sesión 10, impleméntalos, ejecútalos y propor
 
 # **SOLUCION**
 
+## **Calcular el movimiento parabólico de un proyectil**
+
  Calcular el movimiento parabólico de un proyectil
 El movimiento parabólico de un proyectil es un tipo de movimiento en el cual un objeto es lanzado con una velocidad inicial y se mueve siguiendo una trayectoria curva en forma de parábola debido a la influencia de la gravedad. Este tipo de movimiento se caracteriza por tener tanto una componente horizontal como una vertical.
 
@@ -230,7 +232,12 @@ Luego, se calcula el tiempo de vuelo utilizando la fórmula:
 
 ![imagses10.3](image-59.png)
 
-Se muestra el resultado de la distancia recorrida, la altura máxima alcanzada y el tiempo de vuelo en la consola utilizando el método printf de la clase System.out.
+Se muestra el resultado de la distancia recorrida, la altura máxima alcanzada y el tiempo de vuelo en la consola utilizando el método printf de la clase System.out. Que permite formatear la salida de datos de una manera específica. La "p" en printf significa "print", y "f" significa "format", lo que sugiere que este método se utiliza para imprimir datos en un formato específico.
+El método printf es útil para controlar la alineación, el número de decimales, el ancho del campo y otros aspectos del formato de salida. Es especialmente útil cuando deseas que la salida esté bien formateada, como en el caso de imprimir valores en una tabla o presentar datos de una manera legible para los usuarios.
 
 
-![imagses10net](image-60.png)
+![imagfineje10.1](image-61.png)
+
+![imagfineje10.2](image-62.png)
+
+![imagfinejer10.3](image-63.png)
