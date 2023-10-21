@@ -217,3 +217,17 @@ En resumen, el ángulo de lanzamiento óptimo para maximizar la distancia recorr
 A continuación te presento un ejemplo en Java de cómo calcular el movimiento parabólico de un proyectil:
 
 ![imagses10](image-57.png)
+
+En este programa, primero se solicita al usuario que ingrese la velocidad inicial en metros por segundo, el ángulo de lanzamiento en grados y la altura inicial en metros.
+
+A continuación, se calcula la velocidad en los ejes x e y utilizando las fórmulas:
+
+![imagses10.2](image-58.png)
+
+donde velocidadInicial es la velocidad inicial del proyectil, angulo es el ángulo de lanzamiento en grados, cos y sin son las funciones trigonométricas del coseno y el seno, respectivamente.
+
+Luego, se calcula el tiempo de vuelo utilizando la fórmula:
+
+![imagses10.3](image-59.png)
+
+Se muestra el resultado de la distancia recorrida, la altura máxima alcanzada y el tiempo de vuelo en la consola utilizando el método printf de la clase System.out.
