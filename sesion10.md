@@ -251,3 +251,31 @@ En este programa, se utiliza la clase Scanner para solicitar al usuario la lista
 
 1. Ingrese la lista de personas separadas por coma: Juan, Pedro, María, Ana, Luis, Carlos, Diana, Laura
 2. El programa asignará los ejercicios aleatoriamente a las personas y mostrará el resultado en pantalla.
+
+- La clase Collections: en Java es una clase de utilidad que proporciona métodos estáticos para operar y realizar operaciones en colecciones, como ArrayList, LinkedList, HashSet, HashMap, entre otras. Estos métodos permiten realizar acciones comunes en las colecciones, como ordenar, buscar, mezclar, entre otras.
+
+- El código comienza importando las clases necesarias de Java para su funcionamiento, como ArrayList, Collections y Scanner.
+
+- Luego, se define una clase llamada AsignacionEjercicios y su método principal main.
+
+- Se crea un objeto input de la clase Scanner para permitir al usuario ingresar datos desde la consola.
+
+- Se crea un ArrayList llamado personas para almacenar los nombres de las personas a las que se les asignarán ejercicios.
+
+- El programa solicita al usuario que ingrese una lista de personas separadas por comas. Luego, se divide la entrada del usuario en un array de String utilizando la función split(",") y se eliminan los espacios en blanco alrededor de cada nombre de persona antes de agregarlos al ArrayList personas.
+
+- Se obtiene la cantidad de ejercicios, que es igual al número de personas en la lista. Esto se almacena en la variable cantidadEjercicios.
+
+- Se crea un ArrayList llamado numerosEjercicios para representar la lista de números de ejercicios disponibles. Estos números van del 1 al número de personas (cantidadEjercicios).
+
+- Luego, se utiliza un bucle for para llenar la lista numerosEjercicios con números del 1 al número de personas.
+
+- Después, se utiliza Collections.shuffle para mezclar aleatoriamente la lista de números de ejercicios. Esto garantiza que los ejercicios se asignen de manera aleatoria a las personas.
+
+- Se crea un nuevo ArrayList llamado ejercicios para almacenar los ejercicios asignados. Los ejercicios se crean con el formato "Ejercicio X", donde X es un número aleatorio.
+
+- Finalmente, se mezcla la lista de personas de nuevo para asignarles ejercicios de manera aleatoria. Luego, se utiliza un bucle for para imprimir en la consola las asignaciones de ejercicios para cada persona en el formato "Persona: Ejercicio".
+
+![imagses10-2-1](image-65.png)
+![imagses10-2-2](image-66.png)
+![imagses10-2-3](image-67.png)
