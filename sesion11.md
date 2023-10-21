@@ -35,26 +35,12 @@ Por ejemplo, para convertir el número decimal 10 a binario, el algoritmo funcio
 
 # **SOLUCION**
 
-## **Ejercicio 1**
+![solu11jer](image-77.png)
+![solu11ejer-2](image-78.png)
+![solu11eje-3](image-79.png)
 
-![solueje11-2-1](image-72.png)
-![solueje11-2-2](image-73.png)
+**HashSet** es una estructura de datos en Java que se utiliza para almacenar elementos únicos, es decir, no permite duplicados. Cada elemento en un HashSet es único, y la estructura se utiliza para implementar conjuntos en Java. Al utilizar un HashSet, aseguramos que no se almacenan duplicados en la colección, lo que es útil cuando deseas encontrar elementos repetidos en un conjunto de datos.
 
-## **Ejercicio 2**
-**Utilizando bucle while**
+En el código que proporcioné, se utiliza un HashSet llamado numerosRepetidos para almacenar los números que se encuentran más de una vez en el conjunto. La razón de usar un HashSet es que garantiza que los elementos duplicados se eliminarán automáticamente, ya que no permite duplicados. Cuando se encuentra un número repetido, se agrega al HashSet, y al final, puedes imprimir los números repetidos que se encuentran en este conjunto.
 
-![soluejer11-2-2](image-74.png)
-![solueje11-2-3](image-75.png)
-
-**Utilizando bucle for**
-
-![imasolu11-3](image-76.png)
-
-
-
-
-
-
-
-
-
+Usar un HashSet simplifica la lógica del código para encontrar elementos duplicados en comparación con otras estructuras de datos, como un ArrayList o un array convencional, donde tendrías que escribir más código personalizado para administrar duplicados.
