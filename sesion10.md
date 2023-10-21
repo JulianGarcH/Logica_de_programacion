@@ -186,3 +186,32 @@ En este programa, se utiliza la clase Scanner para solicitar al usuario la lista
 - Ingrese la lista de personas separadas por coma: Juan, Pedro, María, Ana, Luis, Carlos, Diana, Laura
 
 - El programa asignará los ejercicios aleatoriamente a las personas y mostrará el resultado en pantalla.
+
+
+## **Actividad: Prueba, ejecución y explicación de ejercicios de lógica de programación**
+
+Selecciona dos ejercicios de la sesión 10, impleméntalos, ejecútalos y proporciona una explicación detallada de cada uno
+
+
+## **SOLUCION**
+
+ Calcular el movimiento parabólico de un proyectil
+El movimiento parabólico de un proyectil es un tipo de movimiento en el cual un objeto es lanzado con una velocidad inicial y se mueve siguiendo una trayectoria curva en forma de parábola debido a la influencia de la gravedad. Este tipo de movimiento se caracteriza por tener tanto una componente horizontal como una vertical.
+
+Durante el movimiento parabólico de un proyectil, la fuerza de la gravedad actúa sobre el objeto, lo que hace que la trayectoria del proyectil describa una curva en forma de parábola. La velocidad horizontal del proyectil se mantiene constante a lo largo de todo el recorrido, mientras que la velocidad vertical va disminuyendo debido a la fuerza de la gravedad.
+
+Algunos ejemplos de movimiento parabólico de un proyectil son el lanzamiento de una pelota o de un objeto deportivo como un balón de fútbol o una pelota de béisbol. También este tipo de movimiento es muy común en el lanzamiento de cohetes y en otros procesos de lanzamiento de objetos en la industria espacial.
+
+El movimiento parabólico de un proyectil es importante en la física ya que permite entender conceptos como la velocidad, la aceleración, la distancia recorrida y la altura máxima alcanzada por el proyectil. Además, es utilizado en diversas aplicaciones prácticas como en la industria aeroespacial, en la ingeniería de cohetes y en la física de las fuerzas del movimiento.
+
+Espero que esta explicación te haya sido útil para entender qué es el movimiento parabólico de un proyectil.
+
+El ángulo que produce la mayor distancia para un proyectil lanzado con una velocidad inicial dada es de 45 grados. Este ángulo se conoce como el ángulo de lanzamiento óptimo.
+
+La razón por la cual el ángulo de lanzamiento óptimo es de 45 grados es que a este ángulo, la velocidad inicial del proyectil se descompone en dos componentes iguales, una horizontal y otra vertical. La componente horizontal de la velocidad se mantiene constante durante todo el vuelo del proyectil, mientras que la componente vertical disminuye debido a la fuerza de la gravedad.
+
+A medida que el ángulo de lanzamiento se acerca a 0 grados (lanzamiento horizontal), la distancia recorrida por el proyectil disminuye debido a que la componente vertical de la velocidad se vuelve muy pequeña. Por otro lado, a medida que el ángulo de lanzamiento se acerca a 90 grados (lanzamiento vertical), la distancia recorrida también disminuye debido a que la componente horizontal de la velocidad se vuelve muy pequeña.
+
+En resumen, el ángulo de lanzamiento óptimo para maximizar la distancia recorrida por un proyectil lanzado con una velocidad inicial dada es de 45 grados.
+
+A continuación te presento un ejemplo en Java de cómo calcular el movimiento parabólico de un proyectil:
