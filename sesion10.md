@@ -215,3 +215,5 @@ A medida que el ángulo de lanzamiento se acerca a 0 grados (lanzamiento horizon
 En resumen, el ángulo de lanzamiento óptimo para maximizar la distancia recorrida por un proyectil lanzado con una velocidad inicial dada es de 45 grados.
 
 A continuación te presento un ejemplo en Java de cómo calcular el movimiento parabólico de un proyectil:
+
+![imasol10.1](image-56.png)
