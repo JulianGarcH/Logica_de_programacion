@@ -237,7 +237,5 @@ El método printf es útil para controlar la alineación, el número de decimale
 
 
 ![imagfineje10.1](image-61.png)
-
 ![imagfineje10.2](image-62.png)
-
 ![imagfinejer10.3](image-63.png)
